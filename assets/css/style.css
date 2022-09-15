@@ -74,8 +74,7 @@ img + p > span {
 }
 
 /* Explain in comments below what the media queries are doing in regards to different screen sizes */
-Break Point
-
+/* Break Point */
 @media screen and (max-width: 992px){
     .custom-text-cont p {
         font-size: 0.8rem;
