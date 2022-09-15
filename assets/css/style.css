@@ -1,8 +1,8 @@
 :root {
     /* Uncomment the code below and change the color scheme if desired https://www.w3schools.com/css/css3_variables.asp */
     --primary: rgba(43, 91, 186, 0.6);
-    --light: rgb(255, 255, 255);
-    --greyish: rgb(116 121 129 / 80%);
+    --light: rgb(196, 131, 184);
+    --greyish: rgba(8, 39, 88, 0.8);
 }
 
 html, body {
@@ -11,7 +11,7 @@ html, body {
 }
 
 body {
-    background-color:rgb(13, 100, 300);
+    background-color:rgb(41, 9, 54);
 }
 
 a {
@@ -54,7 +54,7 @@ a {
 }
 
 .custom-profile > :last-child {
-    background-color: rgba(68, 106, 182, .5);
+    background-color: rgba(22, 19, 172, 0.5);
 }
 
 .custom-city {
